@@ -2,7 +2,6 @@
 
 # list of numbers for list1
 list1 = [12, -7, 5, 64, -14]
-
 # iterating each number in list1
 for num in list1:
     # checking condition
@@ -15,7 +14,6 @@ print("\n")
 list2 = [12, 14, -95, 3]
 # iterating each number in list2
 for num1 in list2:
-
     # checking condition
     if num1 >= 0:
         print(num1, end=" ")
